@@ -17,7 +17,10 @@
   - 独立完成一些有意思的项目
   - 学会netty，手写一个RPC框架
   - 阅读rocketmq源码
-    
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imxiaose&layout=compact)](https://github.com/imxiaose/github-readme-stats)
+
+  
 English:
 - 👋 Hi, I’m xiaose
 - It's better not to mention my poor English.（ty chat-gpt4.0）

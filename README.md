@@ -1,6 +1,6 @@
 # 👋 Hi, I’m xiaose
 学历： 专升本（3+2 正规全日制本科僧）
-目标： 一直从事Saas方向，争取2.5-3年p6,5-6年p7
+目标： 一直从事Saas方向
 技能：
   - 熟悉**java(spring 工程师)、spring boot、rocketmq、redis、微服务（Netflix与Alibaba）及常见中间件**。
   - 阅读过**spring,spring mvc,mybatis,springboot**主要流程的**源码**。

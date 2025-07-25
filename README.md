@@ -1,11 +1,13 @@
 # 👋 Hi, I’m xiaose
 学历： 专升本（3+2 正规全日制本科僧）
 目标： 一直从事Saas方向
+
 技能：
   - 熟悉**java(spring 工程师)、spring boot、rocketmq、redis、微服务（Netflix与Alibaba）及常见中间件**。
   - 阅读过**spring,spring mvc,mybatis,springboot**主要流程的**源码**。
   - 熟悉**多线程**操作与**Mysql数据库（索引、锁等）**。
   - 了解**vue、React**框架，可以进行简单的单页面搭建并与后端协调。
+
 技术理念：
   - 技术是学不完的，但底层解决方案及原理是通用的。
   - 接触新技术后: 先会用，在懂其原理，在会用。
